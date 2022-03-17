@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boj4nN0vakovic
 - 👀 I’m interested in Manual testing, QA...
-- 🌱 I’m currently learning Pzhton, Java ,SQL
+- 🌱 I’m currently learning Python, Java ,SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/nbojann/
 
